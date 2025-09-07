@@ -113,6 +113,3 @@ Este projeto está sob licença MIT.
 **Alexandre Calaes**
 - GitHub: [@Acalaes](https://github.com/Acalaes)
 
----
-
-Desenvolvido com ❤️ usando Replit
